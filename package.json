@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/Ambarubale6061/Machine-Test-For-MERN-Stack#readme",
   "dependencies": {
+    "@mui/icons-material": "^7.3.4",
+    "@mui/material": "^7.3.4",
+    "axios": "^1.12.2",
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
     "csv-parser": "^3.2.0",
@@ -26,7 +29,8 @@
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.19.1",
-    "multer": "^2.0.2"
+    "multer": "^2.0.2",
+    "react-router-dom": "^7.9.4"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
